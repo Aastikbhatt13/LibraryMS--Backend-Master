@@ -1,10 +1,9 @@
 # LibraryMS-Backend
 
-Postman Docs: https://documenter.getpostman.com/view/10695490/UUy67Qim#c8aa064c-1d2d-4b6c-bbd3-60f07b539842
 
 <h1>Setup (for Ubuntu and Mac):</h1>
 <h3>Clone the repository</h3>
-<pre>git clone https://github.com/sp35/LibraryMS-Backend.git</pre>
+<pre>git clone https://github.com/Aastikbhatt13/LibraryMS-Backend.git</pre>
 <h3>Make a new Virtual Environment</h3>
 <pre>virtualenv -p python3 venv</pre>
 <h3>Activating the Virtual Environment</h3>
